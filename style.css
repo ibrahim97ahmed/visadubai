@@ -17,6 +17,9 @@
 	margin-top: 15%;
 	font-weight: 400;
 	font-size: 30px;
+	width: fit-content;
+	color: red;
+	padding: 10px;
 	background-color: green;
 }
 .hero h1{
